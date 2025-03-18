@@ -1,13 +1,14 @@
 >[!IMPORTANT]
-> HAY UN ERROR EN LA DISTRIBUCION EN EL ROUTER SPS DONDE ALGUNAS RUTAS NO SE ESTAN APRENDIENDO
+> HAY UN ERROR EN LA DISTRIBUCION de las rutas internas de router NY ,y el router de sps no aprende rutas internas de algunos routers
 
 ##Completado:
 -Direcciones de routers asignadas
 -enrutamiento configurado en todos los routers
+-enrutamiento en sps areglado
+-Vlans creadas
+-dhcp configurado
 
 #falta:
--crear las vlans
--configurar dhcp
 -configurar servidores 
 
 
