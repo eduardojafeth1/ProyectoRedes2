@@ -1,16 +1,22 @@
->[!NOTE]
+## 📌 Tareas por Hacer en la Red  
+
+### ✅ **Completado:**  
+- [x] Direcciones de routers asignadas  
+- [x] Enrutamiento configurado en todos los routers  
+- [x] Enrutamiento en San Pedro Sula arreglado  
+- [x] VLANs creadas  
+- [x] DHCP configurado  
+- [x] Error en la distribución de las rutas internas del router NY y el router de SPS resuelto  
+- [x] Configurar servidores
+### 🔧 **Pendiente:**    
+- [ ] Etiquetar todos los equipos
+- [ ] Crear web
+- [ ] abrir correos en pc
+
+>[!TIP]
 >Se recomienda usar router on stick para lograr el cambion de un equipo a otro switch y seguir en la misma vlan
 
 
 
-##Completado:
--Direcciones de routers asignadas
--enrutamiento configurado en todos los routers
--enrutamiento en sps areglado
--Vlans creadas
--dhcp configurado
--ERROR EN LA DISTRIBUCION de las rutas internas de router NY y el router de sps RESUELTO
-#falta:
--configurar servidores 
 
 
