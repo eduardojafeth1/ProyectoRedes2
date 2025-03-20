@@ -17,6 +17,3 @@
 >Se recomienda usar router on stick para lograr el cambion de un equipo a otro switch y seguir en la misma vlan
 
 
-
-
-
